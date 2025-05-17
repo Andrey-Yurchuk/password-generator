@@ -14,7 +14,7 @@
 
 ### Установка
 
-Пакет опубликован на Packagist. Чтобы установить его в ваш проект, выполните:
+Пакет опубликован на [Packagist](https://packagist.org/packages/andrey-yurchuk/password-generator). Чтобы установить его в ваш проект, выполните:
 
 ```bash
 composer require andrey-yurchuk/password-generator
